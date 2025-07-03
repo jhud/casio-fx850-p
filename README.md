@@ -1,6 +1,6 @@
 # Casio FX850-P programs
 
-Programs for the SHARP PC-G850V pocket computer.
+Programs for the CASIO FX850-P pocket computer.
 Use at your own risk - I accept no responsibility for damage to yourself, others, or your hardware.
 
 
